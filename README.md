@@ -59,7 +59,7 @@
 
 ![image-7.png](./image-7.png)
 
-![image-8.png](./image-8.png)
+![image-9.png](./image-9.png)
 
 * 메뉴 구성 페이지 중 부동산 관련 소식을 담은 페이지이다.
 * 클릭하면 해당 뉴스 사이트로 이동한다.
